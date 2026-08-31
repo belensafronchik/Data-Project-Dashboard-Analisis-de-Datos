@@ -9,9 +9,13 @@ Consiste en un análisis exploratorio de las ventas de una plataforma de comerci
 ​📍 ​Estructura del Proyecto
 -
 ecommerce-turkey-sales/
-├── README.md                                                # Manual de instrucciones y documentación
-├── ecommerce_customer_behavior_dataset-selected-columns.csv # Archivo de datos fuente (.csv)
-└── Proyecto EDA - Maria Belen Safronchik - 08-2026.xlsx     # Dashboard interactivo y tablas dinámicas
+
+├── README.md                                                
+# Manual de instrucciones y documentación
+├── ecommerce_customer_behavior_dataset-selected-columns.csv 
+# Archivo de datos fuente (.csv)
+└── Proyecto EDA - Maria Belen Safronchik - 08-2026.xlsx     
+# Dashboard interactivo y tablas dinámicas
 
 ​💿 ​Instalación y Requisitos 
 -
